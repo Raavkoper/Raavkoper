@@ -1,4 +1,9 @@
-### Hi there 👋
+### Heyhi! 😁
+
+Hi there! I'm Raav Koper, a software engineering student currently studying at Codam which is part of the 42 network based in Amsterdam.
+
+* personal email <raavkoper01@outlook.com>
+* LinkedIn <almost made!>
 
 <!--
 **Raavkoper/Raavkoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
