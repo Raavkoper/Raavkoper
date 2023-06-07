@@ -3,7 +3,7 @@
 Hi there! I'm Raav Koper, a software engineering student currently studying at Codam which is part of the 42 network based in Amsterdam.
 
 * personal email <raavkoper01@outlook.com>
-* LinkedIn <linkedin.com/in/raav-koper-532672273>
+* LinkedIn <linkedin.com/in/raavkoper>
 
 <!--
 **Raavkoper/Raavkoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
